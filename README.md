@@ -10,7 +10,7 @@ Parameters:
 Out:
 V - Eigenvectors with 20 largest eigenvalues (listed in descending order) <br />
 D - Respective 20 largest eigenvalues <br />
-HFO_Count - HFO_Count(i) is the number of HFO detections in channel i. Therefore, sum(HFO_Count)=size(V,1).
+HFO_Count - HFO_Count(i) is the number of HFO detections in channel i. Therefore, sum(HFO_Count)=size(V,1). <br />
 filtData - Filtered detected HFOs with baseline removed. <br />
 rawData - Raw detected HFO data. <br />
 set - Lists start and stop times of all detections <br />
