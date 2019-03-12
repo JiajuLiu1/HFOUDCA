@@ -27,3 +27,8 @@ NOTE: Currently, surface Laplacian function is from MikeXCohen at
 http://mikexcohen.com and detectors are modified from RippleLab.
 Otherwise, entirely coded by Jiaju Liu at jiajuliu1@gmail.com as part of
 EPIBIOS4Rx project.
+
+--------------------------------------------------------------------------
+Goals: <br />
+-Reducing the number of input parameters. <br />
+-Providing a sample script analyzing open source data.
