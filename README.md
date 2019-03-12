@@ -6,8 +6,8 @@ surface laplacian, 3 (and growing) different detectors, and unsupervised
 diffusion component analysis.
 
 --------------------------------------------------------------------------
-Parameters:
-Out:
+Parameters: <br />
+Out: <br />
 V - Eigenvectors with 20 largest eigenvalues (listed in descending order) <br />
 D - Respective 20 largest eigenvalues <br />
 HFO_Count - HFO_Count(i) is the number of HFO detections in channel i. Therefore, sum(HFO_Count)=size(V,1). <br />
