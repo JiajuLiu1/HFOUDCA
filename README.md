@@ -31,4 +31,5 @@ EPIBIOS4Rx project.
 --------------------------------------------------------------------------
 Goals: <br />
 -Reducing the number of input parameters. <br />
--Providing a sample script analyzing open source data.
+-Providing a sample script analyzing open source data. <br />
+-Adding data visualization tools.
